@@ -6,5 +6,5 @@
 > Software designado a verificar o controle de abastecimento das aeronaves antes dos voos.
 
 ## Usado
-  - VisualG
+  - VISUALG
 <br/>
